@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bahadır. I am a computer scientist from Turkey and continue my master study. I also work as a research and teaching assistant.
+- 👋 Hi, I’m Bahadır. I am a computer scientist and software developer from Turkey.
 - 📫 Contact: m_bahadir_askin@hotmail.com
 
 <!---
