@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Bahadır. I am a computer scientist and software developer from Turkey.
-- 📫 Contact: m_bahadir_askin@hotmail.com
+- 👋 Hi, I’m Bahadır. I am a computer scientist and software engineer from Turkey.
 
 <!---
 mbhdra/mbhdra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
