@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bahadır. I am a computer scientist and software engineer from Turkey.
+- 👋 Hi, I’m Bahadır. I am a computer scientist and software engineer from Germany.
 
 <!---
 mbhdra/mbhdra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
